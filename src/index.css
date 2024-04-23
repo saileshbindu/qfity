@@ -1,0 +1,22 @@
+:root{
+  --green-color:#34C94B;
+  --black-color:#121212;
+  --white-color:#fff
+}
+
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+ 
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+div{
+  margin: 0px;
+  padding: 0px;
+}

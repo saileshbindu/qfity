@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/qfity/static/css/main.5f7fd9df.css",
+    "main.js": "/qfity/static/js/main.98c2f74f.js",
+    "static/js/453.2cdb23cb.chunk.js": "/qfity/static/js/453.2cdb23cb.chunk.js",
+    "static/media/hero_headphones.png": "/qfity/static/media/hero_headphones.064f07ccb05867b51829.png",
+    "static/media/search-icon.svg": "/qfity/static/media/search-icon.45e64b0801152069b25cb25ba8482de9.svg",
+    "index.html": "/qfity/index.html",
+    "main.5f7fd9df.css.map": "/qfity/static/css/main.5f7fd9df.css.map",
+    "main.98c2f74f.js.map": "/qfity/static/js/main.98c2f74f.js.map",
+    "453.2cdb23cb.chunk.js.map": "/qfity/static/js/453.2cdb23cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f7fd9df.css",
+    "static/js/main.98c2f74f.js"
+  ]
+}

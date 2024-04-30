@@ -1,7 +1,8 @@
 :root{
   --green-color:#34C94B;
   --black-color:#121212;
-  --white-color:#fff
+  --white-color:#fff;
+  --fontname:'Poppins', sans-serif;
 }
 
 body {

@@ -68,10 +68,7 @@
   
 }
 
-hr{
-    border:1px solid var(--green-color);
-    margin: 0px;
-  }
+
 .cardsBoxone{
     width: 159px;
     background-color: transparent!important;
@@ -85,4 +82,8 @@ hr{
   
 .cardsBoxone:last-child {
     margin-right: 0;
+  }
+  hr{
+    border:1px solid var(--green-color);
+    margin: 0px;
   }
